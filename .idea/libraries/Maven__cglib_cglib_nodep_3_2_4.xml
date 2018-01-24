@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maven: cglib:cglib-nodep:3.2.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar!/" />
+      <root url="file://$USER_HOME$/Documents/Libraries/Selenium/selenium-java-3.8.1/libs" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/Selenium/selenium-java-3.8.1/client-combined-3.8.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/Selenium/selenium-java-3.8.1/client-combined-3.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/Libraries/Selenium/selenium-java-3.8.1/libs" recursive="false" />
+  </library>
+</component>
